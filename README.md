@@ -1,4 +1,5 @@
 # PyTrader Team 8
+![architecture.png](arichitecture.png)
 - Korea University Computer Science Academy 2022-Summer Team Project | 고려대학교 정보대학 전산학술부 2022년 여름 프로젝트
 - Seonghu Jeon, Byeongwoo Jeon, Myeongjin Kim, Hayeong Park, Hayeon Jeong | 전성후, 전병우, 김명진, 박하영, 정하연
 
